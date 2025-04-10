@@ -1,3 +1,5 @@
 .repli{
     background-color: blue;
+    display: flex
+    justify-content: space-between;
 }
